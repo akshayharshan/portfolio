@@ -24,6 +24,10 @@ nav .navbar-nav li a{
   width: 100%;
 
 }
+.navbar-brand{
+
+  margin-left: 105px;
+}
 .text{
 
   font-family:sans-serif;
@@ -86,11 +90,11 @@ nav .navbar-nav li a{
   width: 50%;
 }
 #edu-col{
-  background-color: beige;
+  background-color: #ffffff;
  
 }
 #exp-col{
-  background-color: beige;
+  background-color: #ffffff;
 }
 .padding-0{
 
@@ -146,7 +150,7 @@ nav .navbar-nav li a{
 #f-text{
 
   color: aliceblue;
-  margin-left: 50px;
+  margin-left: 5px;
 }
 #bottom-btn{
 
