@@ -1,0 +1,166 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  list-style: none;
+ 
+}
+nav .navbar-nav li a{
+  color: rgb(23, 102, 247) !important;
+  font-weight:bolder;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  }
+  nav .navbar-nav li a:hover{
+    color: rgb(218, 25, 25) !important;
+    
+    }
+.uni{
+
+  font-weight: lighter;
+}
+.img-fluid{
+
+  width: 100%;
+
+}
+.text{
+
+  font-family:sans-serif;
+  margin-top: -556px;
+  margin-left: 121px;
+  color:rgb(255, 255, 255);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+ 
+}
+.first_content{
+  background-color: #beb9a7;
+  padding-bottom: 100px;
+  
+}
+.heading{
+
+  margin-top: 450px;
+  
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 18px;
+ 
+  text-underline-offset:6px ;
+  text-align: center;
+}
+.about-me{
+
+  margin-top: 55px;
+}
+.bar{
+
+  background-color: #beb9a7;
+  display:block;
+  height:5px;
+  border:1px solid rgba(0,0,0,0.3);
+  border-radius:3px;
+  overflow: hidden;
+
+}
+.bar span{
+  height: 2px;
+  float:left;
+  background: rgb(65, 61, 61);
+}
+.graphic{
+
+  width: 70%;
+  
+}
+.css{
+  width: 90%;
+
+}
+.java{
+  width: 55%;
+
+}
+.word{
+  width: 50%;
+}
+#edu-col{
+  background-color: beige;
+ 
+}
+#exp-col{
+  background-color: beige;
+}
+.padding-0{
+
+  padding-right: 90px;
+  margin-right: 10px;
+}
+.padding-1{
+
+  
+  margin-left: 10px;
+  padding-right: 90px;
+
+}
+.navbar-brand{
+
+  margin-left: 105px;
+}
+.navbar-nav{
+
+  padding-right: 80px;
+}
+
+#contact-me{
+
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+/* contact */
+
+.contact{
+
+  margin-top: 50px;
+  text-align: center;
+  height: 500px;
+  font-family: 'Montserrat', sans-serif;
+}
+.hr-top{
+  width:10%; 
+  background-color: black; 
+  margin:0.1em auto;
+}
+#hr-mid{
+  width:17%; border:1px solid black; 
+  margin:0.1em auto
+}
+.input-box{
+
+  border: 1px solid #3EDBF0;
+}
+#f-text{
+
+  color: aliceblue;
+  margin-left: 50px;
+}
+#bottom-btn{
+
+  border-color: gray;
+  margin-left: 0px;
+}
+#svg-btn{
+  color: white;
+}
+@media (max-width:576px) {
+  .first_content{
+  
+    margin-top:-200px;
+  
+              }
+
+
+}
