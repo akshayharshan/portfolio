@@ -46,10 +46,14 @@ nav .navbar-nav li a{
 .left-section{
 
   background-color: rgb(255, 255, 255);
-  padding-left:-9px;
-  padding-right: 2px;
-  
+ 
+}
+#education{
 
+  padding-bottom: 15px;
+}
+#experience{
+  padding-bottom: 15px;
 }
 .heading{
 
@@ -109,9 +113,6 @@ nav .navbar-nav li a{
 
 
   width: 10px;
-
-
-  
 }
 
 .cont-head{
